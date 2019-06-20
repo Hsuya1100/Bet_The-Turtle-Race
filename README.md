@@ -15,6 +15,3 @@ cd Bet_The-Turtle-Race
 ```
 python3 race.py
 ```
-`
-sdfdsfsdf
-`
